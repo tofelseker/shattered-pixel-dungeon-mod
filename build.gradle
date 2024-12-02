@@ -21,7 +21,7 @@ allprojects {
         appPackageName = 'com.shatteredpixel.shatteredpixeldungeonreverse'
 
         appVersionCode = 001
-        appVersionName = '2.5.4'
+        appVersionName = '0.0.1'
 
         appJavaCompatibility = JavaVersion.VERSION_1_8
 

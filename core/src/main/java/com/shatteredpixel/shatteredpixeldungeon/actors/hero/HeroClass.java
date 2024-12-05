@@ -169,7 +169,7 @@ public enum HeroClass {
 		}
 
 		new PotionOfHealing().identify();
-		new ScrollOfRage().identify();
+		new ScrollOfUpgrade().identify();
 	}
 
 	private static void initMage( Hero hero ) {
